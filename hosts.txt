@@ -1,0 +1,3 @@
+Acrescentar esse redirecionamento no arquivo hosts.
+
+c:\windows\system32\drivers\etc

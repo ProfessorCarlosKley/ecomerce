@@ -1,0 +1,5 @@
+Copiar conteudo do arquivo .conf para:
+
+C:\xampp\apache\conf\extra
+
+localizar arquivo de mesmo nome e colocar no final dele o conteúdo deste exemplo. httpd-vhosts.conf, não substituir original só acrescentar.
